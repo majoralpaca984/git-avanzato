@@ -1,0 +1,15 @@
+h1 ,h2{
+    color : red;
+}
+ul{
+    background-color: aquamarine;
+}
+ul li::marker{
+content: "\25A0";
+}
+h3{
+    color: blue;
+}
+.extra{
+    background-color: yellow;
+}
